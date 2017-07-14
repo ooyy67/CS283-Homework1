@@ -6,10 +6,21 @@ using System.Threading.Tasks;
 
 namespace Pokempn01
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            monster Pokempn = new monster()
+            {
+                name = "妙娃種子",
+                hp = "60",
+                gender = "男"
+            };
+            Console.WriteLine("名字:{0}, 血量:{1}, 性別:{2}"
+                , Pokempn.name
+                , Pokempn.hp
+                , Pokempn.gender
+            );
         }
     }
 }

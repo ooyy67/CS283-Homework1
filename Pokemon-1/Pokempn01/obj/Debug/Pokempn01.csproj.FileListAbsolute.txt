@@ -1,0 +1,6 @@
+C:\CS283-Homework1\Pokemon-1\Pokempn01\obj\Debug\Pokempn01.csprojResolveAssemblyReference.cache
+C:\CS283-Homework1\Pokemon-1\Pokempn01\bin\Debug\Pokempn01.exe.config
+C:\CS283-Homework1\Pokemon-1\Pokempn01\bin\Debug\Pokempn01.exe
+C:\CS283-Homework1\Pokemon-1\Pokempn01\bin\Debug\Pokempn01.pdb
+C:\CS283-Homework1\Pokemon-1\Pokempn01\obj\Debug\Pokempn01.exe
+C:\CS283-Homework1\Pokemon-1\Pokempn01\obj\Debug\Pokempn01.pdb
